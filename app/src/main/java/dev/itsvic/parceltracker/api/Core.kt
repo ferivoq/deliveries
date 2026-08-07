@@ -37,6 +37,7 @@ enum class Service {
   BELPOST,
   DPD_GER,
   DPD_PL,
+  FOXPOST,
   GLS_HUNGARY,
   HERMES,
   MAGYAR_POSTA,
@@ -54,7 +55,6 @@ enum class Service {
   INPOST,
   INPOST_IT,
   ORLEN_PACZKA,
-  FOXPOST,
 
   // Asia
   EKART,
